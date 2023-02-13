@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Tynys Adai
      / I am a first year student at IITU.
 - 👀 I'm interested in JavaScript and React
-- 🌱 I am currently learning HTML, CSS, JS and C ++
+- 🌱 I am currently learning HTML, CSS, JS and React,Vue
 - 💞️ I hope for work in web and mobile projects
 - 📫 My gmail: j.ady.tynys@gmail.com
 
